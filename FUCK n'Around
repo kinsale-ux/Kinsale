@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <h1>Refried beans are my best friend</h1>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Fbutterfly-colorful-butterfly-insect-5556186%2F&psig=AOvVaw1DeSFmnIw3RyFWZIZyIqLi&ust=1638063653887000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDr5-O0t_QCFQAAAAAdAAAAABAE" alt="butt3rfly">
+
+    <p>Butterflies aren't refried beans, they're not the moment</p>
+
+    <ul> <!-- changed to list in the tutorial -->
+      <li>technologists</li>
+      <li>thinkers</li>
+      <li>builders</li>
+    </ul>
+
+    <p> What's the distance between who you think you are and who other people think you are, ryu?</p>
+
+    <p> LOVE ME LOVE ME SAY THAT YOU LOVE ME.</p>
+  </body>
+</html>
